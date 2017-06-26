@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Customv" >
+        <attr name="square_color" format="color"></attr>
+            <attr name="sqaure_size" format="dimension">
+
+            
+        </attr>
+
+    </declare-styleable>
+
+</resources>
